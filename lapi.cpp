@@ -115,7 +115,6 @@ int         main(int ac, char **av)
     namedWindow("LAPI", CV_WINDOW_AUTOSIZE);
     vector<vector<Point> > squares;
     while (42) {
-        IplImage *image;
         Mat     frame;
         bSuccess = cap.read(frame);
         if (!bSuccess) {
