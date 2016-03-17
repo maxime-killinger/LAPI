@@ -114,7 +114,8 @@ int         main(int ac, char **av)
     cout << "Frame size : " << dWidth << " x " << dHeight << endl;
     namedWindow("LAPI", CV_WINDOW_AUTOSIZE);
     vector<vector<Point> > squares;
-    while (42) {
+    while (42)
+    {
         Mat     frame;
         bSuccess = cap.read(frame);
         if (!bSuccess) {
