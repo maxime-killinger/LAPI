@@ -1,3 +1,0 @@
-/home/killin_m/Desktop/Lapi/CMakeFiles/edit_cache.dir
-/home/killin_m/Desktop/Lapi/CMakeFiles/rebuild_cache.dir
-/home/killin_m/Desktop/Lapi/CMakeFiles/Lapi.dir
