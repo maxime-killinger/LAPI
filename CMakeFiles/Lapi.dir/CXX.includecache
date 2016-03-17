@@ -19,4 +19,10 @@ math.h
 -
 string.h
 -
+stdlib.h
+-
+stdio.h
+-
+opencv2/imgproc/imgproc_c.h
+-
 
